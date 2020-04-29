@@ -1,8 +1,4 @@
 /* eslint-disable guard-for-in */
-import './css/style.css';
-
-import './js/app';
-
 // TODO: write your code in app.js
 
 const obj = {
